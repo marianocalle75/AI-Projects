@@ -1,0 +1,5 @@
+{
+  "name": "Arabic OCR Master",
+  "description": "A high-precision Arabic OCR application that extracts plain text from screenshots or images using Gemini's advanced vision capabilities.",
+  "requestFramePermissions": []
+}
